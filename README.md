@@ -84,8 +84,8 @@ A full-stack web application for collecting and managing user feedback in real-t
    ```
 
 4. **Open your browser**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
+   - Frontend: http://localhost:4173/
+   - Backend API: http://localhost:5000/api/feedback
 
 ## API Endpoints
 
