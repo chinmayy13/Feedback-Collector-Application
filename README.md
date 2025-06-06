@@ -83,7 +83,16 @@ A full-stack web application for collecting and managing user feedback in real-t
    npm run dev
    ```
 
-4. **Open your browser**
+4. **(Optional) Preview the production build**
+
+    📂 Open a new terminal (keep the dev server running), then run:
+
+```bash
+npm run build
+npm run preview
+```
+
+5. **Open your browser**
    - Frontend: http://localhost:4173/
    - Backend API: http://localhost:5000/api/feedback
 
