@@ -87,10 +87,10 @@ A full-stack web application for collecting and managing user feedback in real-t
 
     📂 Open a new terminal (keep the dev server running), then run:
 
-```bash
-npm run build
-npm run preview
-```
+   ```bash
+   npm run build
+   npm run preview
+   ```
 
 5. **Open your browser**
    - Frontend: http://localhost:4173/
