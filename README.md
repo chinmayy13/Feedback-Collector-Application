@@ -4,13 +4,13 @@ A full-stack web application for collecting and managing user feedback in real-t
 
 ## Features
 
-- 📝 **Intuitive Feedback Form** - Users can submit name, message, and star rating
-- 📊 **Real-time Dashboard** - View all feedback with search and sorting capabilities
-- ⭐ **Star Rating System** - 5-star rating system with visual feedback
-- 🔍 **Advanced Filtering** - Search by name/message, sort by date/rating/name
-- 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile
-- 🎨 **Modern UI** - Beautiful glassmorphism design with smooth animations
-- 📈 **Statistics** - View total feedbacks and average ratings
+-  **Intuitive Feedback Form** - Users can submit their name, message, and star rating
+-  **Real-time Dashboard** - View all feedback with search and sorting capabilities
+-  **Star Rating System** - 5-star rating system with visual feedback
+-  **Advanced Filtering** - Search by name/message, sort by date/rating/name
+-  **Responsive Design** - Works perfectly on desktop, tablet, and mobile
+-  **Modern UI** - Beautiful glassmorphism design with smooth animations
+-  **Statistics** - View total feedbacks and average ratings
 
 ## Tech Stack
 
