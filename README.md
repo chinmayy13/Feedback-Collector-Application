@@ -2,6 +2,8 @@
 
 A full-stack web application for collecting and managing user feedback in real-time.
 
+##[Live Server](https://feedback-collector-application-3u7g.vercel.app/)
+
 ## Features
 
 -  **Intuitive Feedback Form** - Users can submit their name, message, and star rating
