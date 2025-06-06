@@ -147,6 +147,7 @@ function App() {
           <div className="text-center text-gray-600">
             <p>
               © 2024 Feedback Collector. Built with React, Node.js, and MongoDB.
+              || Made with ❤️ by Chinmay
             </p>
           </div>
         </div>
