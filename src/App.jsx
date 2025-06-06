@@ -4,7 +4,8 @@ import Dashboard from "./components/Dashboard";
 import axios from "axios";
 import { MessageCircle, TrendingUp } from "lucide-react";
 
-const API_URL = "http://localhost:5000/api/feedback";
+const API_URL =
+  "https://feedback-collector-application-7.onrender.com/api/feedback";
 
 function App() {
   const [feedbacks, setFeedbacks] = useState([]);
