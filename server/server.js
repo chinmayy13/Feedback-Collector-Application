@@ -21,7 +21,8 @@ app.get("/", (req, res) => {
 
 // MongoDB connection
 const MONGODB_URI =
-  process.env.MONGODB_URI || "mongodb://localhost:27017/feedback-collector";
+  process.env.MONGODB_URI ||
+  "mongodb+srv://chinmayykumarr:Nhay5hrAfemnD2Pz@feedback.hyut6e5.mongodb.net/?retryWrites=true&w=majority&appName=feedback";
 
 mongoose
   .connect(MONGODB_URI)
