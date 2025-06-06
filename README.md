@@ -39,7 +39,7 @@ A full-stack web application for collecting and managing user feedback in real-t
 
 1. **Clone the repository**
    ```bash
-   git clone [](https://github.com/chinmayy13/Feedback-Collector-Application)
+   git clone https://github.com/chinmayy13/Feedback-Collector-Application
    cd feedback-collector
    ```
 
